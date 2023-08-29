@@ -22,8 +22,8 @@ Destroy all the windows and end the program.
 
 ## Program:
 ```python
-# Developed By:NIROSHA.S
-# Register Number:212222230097
+# Developed By:PRANEET.S
+# Register Number:212221230078
 ```
 # i) Convert BGR and RGB to HSV and GRAY
 ```
